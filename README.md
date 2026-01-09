@@ -7,3 +7,7 @@ You can play the game at: https://gh-training-schl3.github.io/github-games-sperk
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+
+
+2 + 2 = 5
